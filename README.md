@@ -25,8 +25,4 @@ Overall mortality rate globally
 And many more...
 
 Dependencies:
-Python 3
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
+Python 3, Jupyter Notebook, Pandas, NumPy, Matplotlib.
